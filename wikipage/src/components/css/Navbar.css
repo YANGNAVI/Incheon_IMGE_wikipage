@@ -1,0 +1,18 @@
+.NavbarLink{
+  color: #000 !important;
+  margin-right:60px ;
+  font-size: 20px;
+  font-family: "Roboto";
+  
+}
+.Navigationbar{
+  background-color: 'white';
+  margin-top:0px;
+  margin-bottom: 0px;
+  padding-top: 24.5px !important;
+  padding-bottom: 24.5px !important;
+}
+.logo{
+  width: 115.2px!important;
+  height: 60.8px!important;
+}
