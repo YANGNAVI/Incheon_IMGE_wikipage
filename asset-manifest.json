@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Incheon_IMGE_wikipage/static/css/main.ca584f43.css",
-    "main.js": "/Incheon_IMGE_wikipage/static/js/main.d2ac9007.js",
+    "main.js": "/Incheon_IMGE_wikipage/static/js/main.d1472bc0.js",
     "static/js/787.2917c19f.chunk.js": "/Incheon_IMGE_wikipage/static/js/787.2917c19f.chunk.js",
     "index.html": "/Incheon_IMGE_wikipage/index.html",
     "main.ca584f43.css.map": "/Incheon_IMGE_wikipage/static/css/main.ca584f43.css.map",
-    "main.d2ac9007.js.map": "/Incheon_IMGE_wikipage/static/js/main.d2ac9007.js.map",
+    "main.d1472bc0.js.map": "/Incheon_IMGE_wikipage/static/js/main.d1472bc0.js.map",
     "787.2917c19f.chunk.js.map": "/Incheon_IMGE_wikipage/static/js/787.2917c19f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca584f43.css",
-    "static/js/main.d2ac9007.js"
+    "static/js/main.d1472bc0.js"
   ]
 }
